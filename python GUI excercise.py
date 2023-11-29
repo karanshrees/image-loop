@@ -9,7 +9,7 @@ def every_1000(text):
         if i%100 ==0 and  i!=0:
             final_text += "\n"
             return final_text
-            this is soley for learning purpose
+          
 
 
 root=Tk()
